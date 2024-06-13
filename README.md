@@ -9,5 +9,5 @@ Meu nome é Gabriel Vilas
 ### Você pode entrar em contato comigo 📫
 gabriellsrvilas@gmail.com
 
-![](https://tenor.com/bLOR6.gif)
+![]([https://tenor.com/bLOR6.gif](https://media.tenor.com/VmxCjy966YwAAAAM/the-wok-the-rock.gif))
 
