@@ -2,7 +2,7 @@
 
 Meu nome é Gabriel Vilas  
 
-- Estou estudando na Alura [ALURA](https://www.alura.c0m.br)
+- Estou estudando na Alura [ALURA](https://www.alura.com.br)
 - Estou me desenvolvendo nas linguagens de programação
 - Esse espaço esta sendo dedicado para as minhas criações
 
